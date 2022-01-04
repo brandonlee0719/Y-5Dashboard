@@ -1,0 +1,22 @@
+{
+    "short_name": "Y-5 Finance",
+    "name": "Y-5 Finance",
+    "description": "The First Multi Reflections Token",
+    "homepage_url": "https://y-5dashboard.finance",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#1FC7D4",
+    "background_color": "#ffffff",
+    "orientation": "portrait",
+    "icons": [{
+            "src": "favicon.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "logo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
